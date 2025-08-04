@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-7n0qfyhgm-yousun4423s-projects.vercel.app/api/top-langs/?username=YouSun4423&layout=compact&langs_count=6&count_private=true&cache_seconds=1)](https://github.com/YouSun4423/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-xxxx.vercel.app/api/top-langs/?username=YouSun4423&layout=compact&count_private=true)](https://yousun4423.github.io/stats-proxy)

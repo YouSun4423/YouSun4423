@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://yousun4423.github.io/stats-proxy/" />
-<img src="[https://github-readme-stats-7n0qfyhgm-yousun4423s-projects.vercel.app/api/top-langs/?username=YouSun4423&layout=compact](https://github-readme-stats-7n0qfyhgm-yousun4423s-projects.vercel.app/api/top-langs/?username=YouSun4423&layout=compact&count_private=true)"/>
+![Top Langs](https://github-readme-stats-7n0qfyhgm-yousun4423s-projects.vercel.app/api/top-langs/?username=YouSun4423&layout=compact&count_private=true)

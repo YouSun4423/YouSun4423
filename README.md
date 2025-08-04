@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://yousun4423.github.io/stats-proxy/)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://img.shields.io/endpoint?url=https://yourdomain/api/top-langs/?username=YouSun4423&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+

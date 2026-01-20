@@ -1,30 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yuzuki+Yaguchi;Computer+Science+Student;Full-Stack+Developer" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <a href="https://twitter.com/yousun4423">
     <img src="https://img.shields.io/badge/Twitter-@yousun4423-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=YouSun4423&color=6366f1&style=flat-square" />
 </p>
-
----
-
-## About Me
-
-```yaml
-name: Yuzuki Yaguchi
-role: Computer Science Student
-location: Japan
-interests:
-  - Full-Stack Development
-  - Systems Programming
-  - Open Source
-currently_learning: Always something new
-```
-
----
 
 ## Tech Stack
 
@@ -47,13 +26,10 @@ currently_learning: Always something new
 
 ## GitHub Stats
 
-<!-- lowlighter/metrics で自動生成される画像 -->
-<!-- 初回はワークフロー実行後に表示されます -->
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- フォールバック: Vercel版統計（Metricsが生成されるまで表示） -->
 <details>
 <summary>Vercel Stats (Fallback)</summary>
 
@@ -68,9 +44,3 @@ currently_learning: Always something new
 ## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YouSun4423&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YouSun4423)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>

@@ -1,5 +1,3 @@
-# 👋 Hello, I'm YouSun4423
-
 ## About Me
 Computer Science enthusiast | Open Source Contributor | Always Learning
 

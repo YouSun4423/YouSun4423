@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://twitter.com/yousun4423">
-    <img src="https://img.shields.io/badge/Twitter-@yousun4423-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YouSun4423&color=6366f1&style=flat-square" />
-</p>
-
-## Tech Stack
+## Skill Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
